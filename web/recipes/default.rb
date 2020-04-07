@@ -4,4 +4,7 @@
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
 
-A
+
+file "/var/www/html/index.html" do
+	content "Hello Yogesh"
+end
